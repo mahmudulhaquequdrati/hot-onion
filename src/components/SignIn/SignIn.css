@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed:wght@400;700&family=Rubik&display=swap");
+
+/* 
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Rubik', sans-serif;
+*/
+.signIn-class {
+  background-image: url("../../images/bannerbackground.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 120px 20px;
+  margin: 0px;
+  height: 100vh;
+}
+.main-text {
+  font-family: "Rubik", sans-serif;
+  color: rgb(63, 63, 63);
+}
+.details {
+  font-family: "Rubik", sans-serif;
+}
+.header-input {
+  background-color: white;
+  border: 0;
+  font-family: "Rubik", sans-serif;
+}
+.button-background {
+  font-family: "Roboto Condensed", sans-serif;
+  /* background-color: #fcf4e0; */
+  background-color: transparent;
+  color: rgb(197, 66, 18);
+}
+.card-design:hover {
+  box-shadow: 2px 2px 8px rgb(216, 216, 216) !important;
+}
+.why-texts {
+  width: 30rem;
+  font-size: 14px;
+}
+.blog-des {
+  font-size: 13px;
+}
+.footer {
+  background-color: rgb(48, 47, 47);
+  color: white;
+}
+.footer nav ul li {
+  font-size: 13px;
+}
+.footer-p p {
+  margin-bottom: 0;
+  font-size: 13px;
+}
+.copyright-text {
+  font-size: 14px;
+  text-align: center;
+}
